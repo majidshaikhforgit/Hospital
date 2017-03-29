@@ -7,7 +7,7 @@ package com.main.exception;
 
 /**
  *
- * @author webwerks
+ * @author Majid Shaikh
  */
 public class NotFoundException extends RuntimeException{
 
